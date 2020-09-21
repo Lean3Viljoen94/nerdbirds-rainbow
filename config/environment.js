@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Games',
         route: 'page',
-        id: 'chris-manson'
+        id: 'games'
       }]
     },
 
