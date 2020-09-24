@@ -1,6 +1,6 @@
 ---
 title: Jordyn's Soccer Journey
-image: /images/elearning.jpg
+image: /images/boy-classroom.jpg
 imageMeta:
   attribution:
   attributionLink:
