@@ -1,5 +1,5 @@
 ---
-name: NerdBird Team
+name: NerdBirds Team
 id: nerdbirds
 image:
 cover:
