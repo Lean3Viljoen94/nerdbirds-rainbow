@@ -1,7 +1,7 @@
 ---
 name: NerdBirds Team
 id: nerdbirds
-image: ./nerdbirds.jpeg
+image:
 cover:
 website: 
 twitter:
