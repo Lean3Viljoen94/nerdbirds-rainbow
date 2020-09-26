@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-image: /images/team.jpg
+image: /images/code.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,6 +11,9 @@ date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - contact-us
 ---
+
+![team photo](/images/team.jpg "GBV Hackathon Team 2019")
+
 
 The idea for the game was born during the gender-based violence hackathon in Cape Town 2019. Taskeen, Leandri, Kimberly (South Africa) and Daria (Germany) formed the all-female Team Nerdbirds and took second place. 
 
